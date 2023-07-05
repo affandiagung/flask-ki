@@ -4,12 +4,11 @@ from : https://github.com/agungperdananto/2023_class/blob/dev/komputer%20grafik/
 Mata Kuliah : Komputer Grafik
 Dosen Pengampu : Agung Perdananto,S.Kom, M.Kom
 
----
-Nama: Affandi Agung L
-Nim: 201011400875
-Kelas: 06TPLE004
+| Nama             | Nim            | Kelas        |
+|------------------|----------------|--------------|
+| Affandi Agung L  | 201011400875   | 06TPLE004    |
 
----
+
 
 # ✨ Form Halaman Utama Untuk Upload Image
 ![image](https://github.com/affandiagung/flask-ki/assets/93693763/b9bb76fc-031c-49f0-8410-f9bf5cb2fe63)
