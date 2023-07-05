@@ -1,13 +1,14 @@
 Dibuat Untuk Memenuhi Tugas Ujian Akhir Semester ( UAS )
 Universitas Pamulang
 from : https://github.com/agungperdananto/2023_class/blob/dev/komputer%20grafik/Tugas%20uas/tugas_uas.md
+Mata Kuliah : Komputer Grafik
+Dosen Pengampu : Agung Perdananto,S.Kom, M.Kom
 
 ---
 Nama: Affandi Agung L
 Nim: 201011400875
 Kelas: 06TPLE004
-Mata Kuliah : Komputer Grafik
-Dosen Pengampu : Agung Perdananto,S.Kom, M.Kom
+
 ---
 
 # ✨ Form Halaman Utama Untuk Upload Image
