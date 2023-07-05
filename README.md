@@ -9,11 +9,11 @@
 
 Tugas dari : from : https://github.com/agungperdananto/2023_class/blob/dev/komputer%20grafik/Tugas%20uas/tugas_uas.md
 
-# ✨ Form Halaman Utama Untuk Upload Image
+# ✨ Form Halaman Untuk Upload Image
 ![image](https://github.com/affandiagung/flask-ki/assets/93693763/e413f2c5-98be-41e1-832e-34d09f906dd7)
 
 
-# ✨ Form Halaman Utama Cropping Image
+# ✨ Form Halaman Untuk Cropping Image
 ![image](https://github.com/affandiagung/flask-ki/assets/93693763/c9c00914-3edd-4c27-857b-6de77d02d51d)
 
 
