@@ -1,7 +1,7 @@
-- Dibuat Untuk Memenuhi Tugas Ujian Akhir Semester ( UAS )
-- Universitas Pamulang
-- Mata Kuliah : Komputer Grafik
-- Dosen Pengampu : Agung Perdananto,S.Kom, M.Kom
+# Dibuat Untuk Memenuhi Tugas Ujian Akhir Semester ( UAS )
+# Universitas Pamulang
+# Mata Kuliah : Komputer Grafik
+# Dosen Pengampu : Agung Perdananto,S.Kom, M.Kom
 
 | Nama             | Nim            | Kelas        |
 |------------------|----------------|--------------|
