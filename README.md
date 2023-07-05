@@ -1,23 +1,29 @@
+Dibuat Untuk Memenuhi Tugas Ujian Akhir Semester ( UAS )
+Universitas Pamulang
+from : https://github.com/agungperdananto/2023_class/blob/dev/komputer%20grafik/Tugas%20uas/tugas_uas.md
+
 ---
-title: Flask
-description: A popular minimal server framework for Python
-tags:
-  - python
-  - flask
+Nama: Affandi Agung L
+Nim: 201011400875
+Kelas: 06TPLE004
+Mata Kuliah : Komputer Grafik
+Dosen Pengampu : Agung Perdananto,S.Kom, M.Kom
 ---
 
-# Python Flask Example
+# ✨ Form Halaman Utama Untuk Upload Image
+![image](https://github.com/affandiagung/flask-ki/assets/93693763/b9bb76fc-031c-49f0-8410-f9bf5cb2fe63)
 
-This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that serves a simple JSON response.
+# ✨ Form Halaman Utama Cropping Image
+![image](https://github.com/affandiagung/flask-ki/assets/93693763/d53a26bc-7ee1-4c90-ab2e-b6da3a067c07)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/zUcpux)
+# ✨ Tampilan Hasil Cropping Image
+![image](https://github.com/affandiagung/flask-ki/assets/93693763/19e09de2-5162-4b09-a72b-b42d97e0abd4)
 
-## ✨ Features
 
-- Python
-- Flask
 
 ## 💁‍♀️ How to use
+
+Deploy on Railway : https://flask-production-be10.up.railway.app/
 
 - Install Python requirements `pip install -r requirements.txt`
 - Start the server for development `python3 main.py`
